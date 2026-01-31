@@ -1,4 +1,4 @@
-# Data Preprocessing in Machine Learning  
+# Data-Preprocessing in Machine Learning  
 
 This project demonstrates **data preprocessing techniques** in Machine Learning using Python. Preprocessing is a crucial step before training models, as it ensures that the dataset is clean, consistent, and ready for analysis.  
 
